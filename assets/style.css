@@ -1,0 +1,20 @@
+.soldi-rimasti {
+    color: black;
+    font-size: 18px;
+    width: 600px;
+    height: 25px;
+    border: 1px solid black;
+    margin: 1rem;
+    text-align: center;
+}
+
+.warning {
+    color: red;
+    font-size: 20px;
+    font-weight: 700;
+    width: 600px;
+    height: 25px;
+    border: 1px solid black;
+    margin: 1rem;
+    text-align: center;
+}
